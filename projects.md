@@ -47,3 +47,16 @@ To achieve these goals, I propose replacing Sundered Sky with a new item that re
 To prove the concept, I built a simple Java calculator to model the shield's scaling. This allows for rapid iteration and balancing.
 
 [View the 'AegisCalculator' Java prototype on GitHub](https://github.com/jaxon-roberts/AegisCalculator)
+
+
+
+# TFT Target Selection Simulator
+* **What it is:** A Java app that simulates how AI units select targets on a battlefield.
+* **Core Concept:** Uses a `PriorityQueue` to manage a list of potential attackers. This ensures that the highest-priority unit (like a 5-cost carry) gets to attack a "Target Dummy" as soon as it's free. This is a direct prototype of AI task-scheduling and resource management in a game engine.
+* **[View the `TFT-Target-Simulator` on GitHub](https://github.com/racecarworm67/TFT-Target-Simulator)**
+
+
+#2. TFT Shop & Champion Pool Simulator
+* **What it is:** A Java backend that models the entire *Teamfight Tactics* champion pool and shop-rolling logic.
+* **Core Concept:** An Object-Oriented system that "deals" champions from a "shuffled" pool. This project demonstrates how OOP, data structures, and secure randomization are used to build a core gameplay system.
+* **[View the `TFT-Shop-Simulator` on GitHub](https://github.com/racecarworm67/TFT-Shop-Simulator)**
