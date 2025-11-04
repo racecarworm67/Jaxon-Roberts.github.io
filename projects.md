@@ -46,15 +46,4 @@ To achieve these goals, I propose replacing Sundered Sky with a new item that re
 ### 4. Technical Prototype & Code
 To prove the concept, I built a simple Java calculator to model the shield's scaling. This allows for rapid iteration and balancing.
 
-**[Link to your AegisCalculator GitHub Repo]**
-*(Replace the line above with a link like this: `[View the 'AegisCalculator' Java prototype on GitHub](https://github.com/your-username/AegisCalculator)`)*
-
----
-## Analysis: The Power of Pacing
-**How a 1-Wave Change to Cannon Minions Redefined the Laning Phase**
-
-*(...Paste your full "Cannon Minion" analysis here...)*
-
----
-## Java Project: Weighted Loot Table
-*(...Paste your "Reskinned" Java class project here...)*
+[View the 'AegisCalculator' Java prototype on GitHub](https://github.com/jaxon-roberts/AegisCalculator)
