@@ -8,4 +8,4 @@ I use high-level player intuition, mathematical modeling, and Java to deconstruc
 ### About Me
 I'm a Math & CS student with thousands of hours of competitive gaming experience (Grandmaster *Overwatch*, Diamond *League of Legends*). I'm passionate about *why* games are balanced, not just *that* they are. I build tools and prototypes to test my design ideas and find elegant solutions to complex system problems.
 
-[View My Projects](projects.md) | [My GitHub Profile](https://github.com/racecarworm67) | [My LinkedIn](www.linkedin.com/in/jaxon-roberts-377b57294)
+[View My Projects](projects.md) | [My GitHub Profile](https://github.com/racecarworm67) | [My LinkedIn](https://www.linkedin.com/in/jaxon-roberts-377b57294)
