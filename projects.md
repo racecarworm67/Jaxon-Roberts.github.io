@@ -56,7 +56,7 @@ To prove the concept, I built a simple Java calculator to model the shield's sca
 * **[View the `TFT-Target-Simulator` on GitHub](https://github.com/racecarworm67/TFT-Target-Simulator)**
 
 
-#2. TFT Shop & Champion Pool Simulator
+# TFT Shop & Champion Pool Simulator
 * **What it is:** A Java backend that models the entire *Teamfight Tactics* champion pool and shop-rolling logic.
 * **Core Concept:** An Object-Oriented system that "deals" champions from a "shuffled" pool. This project demonstrates how OOP, data structures, and secure randomization are used to build a core gameplay system.
 * **[View the `TFT-Shop-Simulator` on GitHub](https://github.com/racecarworm67/TFT-Shop-Simulator)**
